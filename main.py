@@ -72,7 +72,7 @@ class RocketApp(tk.Tk):
                      bg=C["crust"]).pack(side=tk.LEFT, padx=(10, 4), pady=8)
             title_text = "  CALCULADORA DE MATERIALES"
         except Exception:
-            title_text = "  🚀  CALCULADORA DE MATERIALES"
+            title_text = "  CALCULADORA DE MATERIALES"
 
         tk.Label(hf, text=title_text,
                  bg=C["crust"], fg=C["blue"],
@@ -122,7 +122,7 @@ class RocketApp(tk.Tk):
                  ).pack(side=tk.RIGHT, padx=10)
 
     # ─────────────────────────────────────────────────────────
-    # HELPERS PÚBLICOS (usados por los tabs)
+    # HELPERS PÚBLICOS 
     # ─────────────────────────────────────────────────────────
 
     def save(self):
