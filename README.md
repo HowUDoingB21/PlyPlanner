@@ -2,7 +2,7 @@
 
 PlyPlanner is a specialized engineering tool designed to calculate the necessary carbon fiber and resin for experimental rocket components. It integrates geometric modeling with advanced cutting algorithms to minimize material waste and provide professional documentation for aerospace manufacturing.
 
-## 🚀 Key Features
+## Key Features
 
 * **Multi-Component Geometry Support:** Precise calculation of surface areas and profiles for:
     * **Cylinders:** Standard body tubes and couplers.
@@ -14,7 +14,7 @@ PlyPlanner is a specialized engineering tool designed to calculate the necessary
 * **Professional Theming:** Built with a custom "Catppuccin Mocha" palette for a modern, high-contrast engineering interface.
 * **Data Export:** Generates detailed text reports summarizing geometric areas, resin requirements, and purchase lists.
 
-## 📁 Project Structure
+## Project Structure
 
 * `main.py`: Application entry point and UI architecture.
 * `geometria.py`: Mathematical core for geometric areas and cutting algorithms.
@@ -33,7 +33,7 @@ PlyPlanner is a specialized engineering tool designed to calculate the necessary
 * `tkinter` (standard library)
 * `Pillow` (for logo rendering)
 
-## 🔧 Usage
+## Usage
 
 1.  **Define Providers:** Add your fiber rolls (width, density, and cost).
 2.  **Configure Globals:** Set your preferred overlap margin and resin/fiber mass ratio.
