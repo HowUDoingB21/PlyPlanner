@@ -11,7 +11,6 @@ PlyPlanner is a specialized engineering tool designed to calculate the necessary
 * **Cutting Optimization:** Implements a **Skyline Packing** (Guillotine BSSF) algorithm to organize pieces on a fixed-width fiber roll, minimizing the length of material required.
 * **Global Nesting:** Components sharing the same provider are automatically nested together on the same roll to reduce waste.
 * **Interactive Visualizations:** High-fidelity canvas representing the fiber roll with interactive tooltips for each cut piece.
-* **Professional Theming:** Built with a custom "Catppuccin Mocha" palette for a modern, high-contrast engineering interface.
 * **Data Export:** Generates detailed text reports summarizing geometric areas, resin requirements, and purchase lists.
 
 ## Project Structure
