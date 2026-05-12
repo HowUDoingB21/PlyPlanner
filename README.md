@@ -26,7 +26,7 @@ PlyPlanner is a specialized engineering tool designed to calculate the necessary
     * `tab_resultados.py`: Material summaries and report generation.
     * `tab_cortes.py`: Graphical layout of the cutting plan.
 
-## 🛠️ Requirements
+## Requirements
 
 * Python 3.x
 * `tkinter` (standard library)
